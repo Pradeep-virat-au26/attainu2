@@ -1,0 +1,10 @@
+1)git pull : is a command used pull commands from github to local computer
+2)git push : is a command used push commands from local computer to github
+3)git merge : is a command used megre the commands <eg :the user1 one user2 works one same line final decide which to merge)
+4)git log : is a command shows the what are the changes made and shows what are files we have created or delted 
+5)git staus :  git staus shows untracked/tracked file
+6)git commit : the message made on the file to get track the chnages
+7)git init :git file which will not visbile on command ( ls )(ls -a)
+8)git clone:https file clone from github to local computer
+9)git branch:checking the branch name
+10) git checkout:searching branch    
