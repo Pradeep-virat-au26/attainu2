@@ -8,3 +8,28 @@
 8)git clone:https file clone from github to local computer
 9)git branch:checking the branch name
 10) git checkout:searching branch    
+
+
+addition command
+a=17
+b=20
+add=a+b
+print(a+b)
+
+subract command
+a=10
+b=22
+sub=a-b
+print(a-b)=-12
+
+multiple
+a=5
+b=115
+mult=a*b
+print(a*b)=575
+
+
+a=17
+b=18
+div=a/b
+print(a/b)=0.9444444444444444
